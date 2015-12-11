@@ -15,6 +15,8 @@
 
 //Un Comentario para senasoft
 
+
+echo "Hola mundo";
 	/*******************************/
 	// phpinfo();				       //	
 	/*******************************/
