@@ -66,6 +66,8 @@ $template = new Template();
 		</div><!-- /.navbar-collapse -->
 	</nav>
 <div class="container">
+
+	<h2>Hola Test GIT backend</h2>
 <?php
 		}
 
