@@ -12,6 +12,9 @@
 	require_once "Views/Template.php";
 	Config\Enrutador::run(new Config\Request());
 
+
+//Un Comentario para senasoft
+
 	/*******************************/
 	// phpinfo();				       //	
 	/*******************************/
