@@ -25,7 +25,7 @@ $template = new Template();
 			</button>
 			<a class="navbar-brand" href="#">Plataforma Estudiantes</a>
 		</div>
-	
+	<h1>mI CAMBIO</h1>
 		<!-- Collect the nav links, forms, and other content for toggling -->
 		<div class="collapse navbar-collapse navbar-ex1-collapse">
 			<ul class="nav navbar-nav">
