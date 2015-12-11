@@ -8,7 +8,7 @@ $template = new Template();
 <html lang="es">
 <head>
 	<meta charset="UTF-8">
-	<title>Administración de estudiantes</title>
+	<title>Administración de estudiantes PRactica Git Hub</title>
 	<link rel="stylesheet" href="<?php echo URL;  ?>Views/static/css/bootstrap.min.css">
 	<link rel="stylesheet" href="<?php echo URL;  ?>Views/static/css/styles.css">
 
