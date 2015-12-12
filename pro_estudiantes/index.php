@@ -25,8 +25,10 @@ Este es un comentario desde la rama backend
 
 
 holqa test
+
+maira lo mejorcito.com
 	/*******************************/
-	// phpinfo();				       //	
+	// tphpinfo();				       //	
 	/*******************************/
  ?>
 
